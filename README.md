@@ -1,6 +1,7 @@
-<div id="header" align="center">
-  <img src="https://giphy.com/stickers/space-spaceday-nationalspaceday-0TtX2qqpxp3pIafzio" width="150"/>
-</div>
+[<img align="center" width="150" src="https://giphy.com/stickers/space-spaceday-nationalspaceday-0TtX2qqpxp3pIafzio"/>]
+
+<br />
+
 ### Hi there, I'm Mujtaba - aka[Mujster]
 
 ## I'm a student, currently pursuing my bachelors in Software Engineering
@@ -32,6 +33,6 @@
 <br />
 
 [twitter]: https://twitter.com/Mujtaba53135111
-[linkedin]: www.linkedin.com/in/mmujtabaahmad15
+[linkedin]: https://linkedin.com/in/mmujtabaahmad15
 [instagram]: https://www.instagram.com/mmujtaba.ahmad/
 [gmail]: https://mail.google.com/mail/?view=cm&fs=1&to=mmujtaba.ahmad@protonmail.com&su=Info-Query
