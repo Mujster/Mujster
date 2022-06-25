@@ -33,7 +33,9 @@
 <br />
 
 <img src="https://komarev.com/ghpvc/?username=Mujster&style=flat-square&color=blue" alt="Profile Visits"/>
+<br />
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mujster&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&dates=DDDDDD)](https://git.io/streak-stats)
+
 <br />
 <br />
 
