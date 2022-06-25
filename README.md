@@ -15,6 +15,7 @@
 [<img align="left" alt="Mujster | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Mujster | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Mujster | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Mujster | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 
 <br />
 
@@ -30,9 +31,14 @@
 [<img align="left" alt="GUI " width="26px" src="https://www.pngitem.com/pimgs/m/11-119853_transparent-gui-png-uikit-logo-png-png-download.png"/>]
 
 <br />
+
+<img src="https://komarev.com/ghpvc/?username=Mujster&style=flat-square&color=blue" alt="Profile Visits"/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mujster&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&dates=DDDDDD)](https://git.io/streak-stats)
+<br />
 <br />
 
 [twitter]: https://twitter.com/Mujtaba53135111
 [linkedin]: https://linkedin.com/in/mmujtabaahmad15
 [instagram]: https://www.instagram.com/mmujtaba.ahmad/
 [gmail]: https://mail.google.com/mail/?view=cm&fs=1&to=mmujtaba.ahmad@protonmail.com&su=Info-Query
+[spotify]: https://open.spotify.com/playlist/4gZXGFetbd5OjqbqpQVcKV?si=2181f09f4992457a
