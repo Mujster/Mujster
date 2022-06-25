@@ -30,7 +30,7 @@
 [<img align="left" alt="GUI " width="26px" src="https://www.pngitem.com/pimgs/m/11-119853_transparent-gui-png-uikit-logo-png-png-download.png"/>]
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mujster&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujster)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujster)](https://github.com/Mujster/github-readme-stats)
 <br />
 <br />
 
