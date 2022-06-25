@@ -1,6 +1,8 @@
 [<img align="center" width="150" src="https://cdn1.vectorstock.com/i/1000x1000/84/15/astronaut-dabbing-style-on-a-space-rocket-vector-35808415.jpg"/>]
 <br />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mujster)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there, I'm Mujtaba - aka[Mujster]
 
 ## I'm a student, currently pursuing my bachelors in Software Engineering
