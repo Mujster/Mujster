@@ -1,4 +1,7 @@
-### Hi there, I'm Mujtaba - aka[Mujster][website]
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/loop-tumblr-featured-TZf4ZyXb0lXXi" width="100"/>
+</div>
+### Hi there, I'm Mujtaba - aka[Mujster]
 
 ## I'm a student, currently pursuing my bachelors in Software Engineering
 - I spent my most of time developing proficiency in programming and learning new technologies.
