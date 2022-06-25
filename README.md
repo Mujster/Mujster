@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/loop-tumblr-featured-TZf4ZyXb0lXXi" width="100"/>
+  <img src="https://giphy.com/stickers/space-spaceday-nationalspaceday-0TtX2qqpxp3pIafzio" width="150"/>
 </div>
 ### Hi there, I'm Mujtaba - aka[Mujster]
 
