@@ -26,10 +26,9 @@
 [<img align="left" alt="C++" width="26px" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png"/>]
 [<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/>]
 [<img align="left" alt="Object Oriented Programming" width="26px" src="https://cdn4.vectorstock.com/i/1000x1000/40/18/outline-object-oriented-programming-icon-isolated-vector-28254018.jpg"/>]
-[<img align="left" alt="Python" width="26px" src="WBw69NbZI1hkWSx1KjyLJuze50m4oXVSjleM353QZySSwWRbiRp22RJN41ngty28fTHtK9S9WyCPjZbNGnHYx43uvfZkAHoYQUIqMVgkZ7bbxYAB0IAAAAAAAAAA"/>]
+[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>]
 [<img align="left" alt="GUI " width="26px" src="https://www.pngitem.com/pimgs/m/11-119853_transparent-gui-png-uikit-logo-png-png-download.png"/>]
 
-[<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<Mujster>&theme=<THEME_NAME>" />]
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mujster&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujster)](https://github.com/anuraghazra/github-readme-stats)
 <br />
