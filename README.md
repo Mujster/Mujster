@@ -1,4 +1,4 @@
-[<img align="center" width="150" src="https://giphy.com/stickers/space-spaceday-nationalspaceday-0TtX2qqpxp3pIafzio"/>]
+[<img align="center" width="150" src="https://cdn1.vectorstock.com/i/1000x1000/84/15/astronaut-dabbing-style-on-a-space-rocket-vector-35808415.jpg"/>]
 
 <br />
 
