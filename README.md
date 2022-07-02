@@ -41,7 +41,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujster&langs_count=10&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
-[twitter]: https://twitter.com/Mujtaba53135111
+[twitter]: https://twitter.com/Mujtaba53135111 
 [linkedin]: https://linkedin.com/in/mmujtabaahmad15
 [instagram]: https://www.instagram.com/mmujtaba.ahmad/
 [gmail]: https://mail.google.com/mail/?view=cm&fs=1&to=mmujtaba.ahmad@protonmail.com&su=Info-Query
