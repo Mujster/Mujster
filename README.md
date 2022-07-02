@@ -10,12 +10,12 @@
 - 💻 Most used line of code cout<<"Hello World\n"; 
 
 ### Connect with me: 
-![linkedin](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)&nbsp;&nbsp;
-![medium](https://img.shields.io/badge/-Medium-05122A?style=flat&logo=medium)&nbsp;&nbsp;
-![mail](https://img.shields.io/badge/-Mail-05122A?style=flat&logo=mail)&nbsp;&nbsp;
+[![linkedin](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://linkedin.com/in/mmujtabaahmad15)&nbsp;&nbsp;
+[![medium](https://img.shields.io/badge/-Medium-05122A?style=flat&logo=medium)](https://medium.com/@mmujtabach1234)&nbsp;&nbsp;
+[![mail](https://img.shields.io/badge/-Mail-05122A?style=flat&logo=mail)](https://mail.google.com/mail/?view=cm&fs=1&to=mmujtaba.ahmad@protonmail.com&su=Info-Query)&nbsp;&nbsp;
 [![twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/Mujtaba53135111)&nbsp;&nbsp;
-![instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)&nbsp;&nbsp;
-![spotify](https://img.shields.io/badge/-Spotify-05122A?style=flat&logo=spotify)&nbsp;&nbsp;
+[![instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)]( https://www.instagram.com/mmujtaba.ahmad/)&nbsp;&nbsp;
+[![spotify](https://img.shields.io/badge/-Spotify-05122A?style=flat&logo=spotify)]( https://open.spotify.com/playlist/4gZXGFetbd5OjqbqpQVcKV?si=2181f09f4992457a)&nbsp;&nbsp;
 
 <br />
 
