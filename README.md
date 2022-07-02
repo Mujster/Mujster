@@ -10,12 +10,12 @@
 - 💻 Most used line of code cout<<"Hello World\n"; 
 
 ### Connect with me: 
-[<img align="left" alt="Mujster | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mujster | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Mujster | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Mujster | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="Mujster | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
-[<img align="left" alt="Mujster | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="Mujster | LinkedIn" width="22px" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" />][linkedin]
+[<img align="left" alt="Mujster | Twitter" width="22px" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)" />][twitter]
+[<img align="left" alt="Mujster | Instagram" width="22px" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)" />][instagram]
+[<img align="left" alt="Mujster | Mail" width="22px" src="https://img.shields.io/badge/-Mail-05122A?style=flat&logo=gmail)" />][gmail]
+[<img align="left" alt="Mujster | Spotify" width="22px" src="https://img.shields.io/badge/-Spotify-05122A?style=flat&logo=spotify)" />][spotify]
+[<img align="left" alt="Mujster | Medium" width="22px" src="https://img.shields.io/badge/-Medium-05122A?style=flat&logo=medium)" />][medium]
 <br />
 
 ### Languages & Tools:
