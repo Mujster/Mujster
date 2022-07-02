@@ -30,7 +30,10 @@
 [<img align="left" width="26px" src="https://cdn4.vectorstock.com/i/1000x1000/40/18/outline-object-oriented-programming-icon-isolated-vector-28254018.jpg"/>]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>]
 [<img align="left" alt="GUI " width="26px" src="https://www.pngitem.com/pimgs/m/11-119853_transparent-gui-png-uikit-logo-png-png-download.png"/>]
+## <strong>Profile Visits </strong>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Mujste.Mujster) 
+
+<br />
 ![Mujtser's github stats](https://github-readme-stats.vercel.app/api?username=Mujster&hide=issues,contribs&count_private=true&layout=compact&theme=cobalt)
 <br />
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mujster&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
