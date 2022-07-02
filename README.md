@@ -1,4 +1,4 @@
-[<img align="center" width="1000" src="https://timelinecovers.pro/covers/movies-and-tv/star-wars-darth-vader-join-me_facebook-cover-photo"/>]
+# <strong>Hi </strong><img src="https://timelinecovers.pro/covers/movies-and-tv/star-wars-darth-vader-join-me_facebook-cover-photo" width="25px">
 <br />
 
 ### Hi there, I'm Mujtaba - aka[Mujster]
