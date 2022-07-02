@@ -15,7 +15,7 @@
 [<img align="left" alt="Mujster | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Mujster | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="Mujster | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
-
+[<img align="left" alt="Mujster | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 <br />
 
 ### Languages & Tools:
@@ -28,10 +28,11 @@
 [<img align="left" alt="Object Oriented Programming" width="26px" src="https://cdn4.vectorstock.com/i/1000x1000/40/18/outline-object-oriented-programming-icon-isolated-vector-28254018.jpg"/>]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>]
 [<img align="left" alt="GUI " width="26px" src="https://www.pngitem.com/pimgs/m/11-119853_transparent-gui-png-uikit-logo-png-png-download.png"/>]
-
+![Mujtser's github stats](https://github-readme-stats.vercel.app/api?username=Mujster&hide=issues,contribs&count_private=true&layout=compact&theme=cobalt)
+<br />
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mujster&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujster&theme=synthwave&layout=compact)](https://github.com/Mujster/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujster&langs_count=10&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
 [twitter]: https://twitter.com/Mujtaba53135111
@@ -39,3 +40,4 @@
 [instagram]: https://www.instagram.com/mmujtaba.ahmad/
 [gmail]: https://mail.google.com/mail/?view=cm&fs=1&to=mmujtaba.ahmad@protonmail.com&su=Info-Query
 [spotify]: https://open.spotify.com/playlist/4gZXGFetbd5OjqbqpQVcKV?si=2181f09f4992457a
+[medium]:https://medium.com/@mmujtabach1234
