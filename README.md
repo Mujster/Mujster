@@ -12,8 +12,10 @@
 ### Connect with me: 
 ![linkedin](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)&nbsp;&nbsp;
 ![medium](https://img.shields.io/badge/-Medium-05122A?style=flat&logo=medium)&nbsp;&nbsp;
-![mail](https://img.shields.io/badge/-ProtonMail-05122A?style=flat&logo=protonmail)&nbsp;&nbsp;
+![mail](https://img.shields.io/badge/-Mail-05122A?style=flat&logo=mail)&nbsp;&nbsp;
 ![twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)&nbsp;&nbsp;
+![instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)&nbsp;&nbsp;
+![spotify](https://img.shields.io/badge/-Spotify-05122A?style=flat&logo=spotify)&nbsp;&nbsp;
 
 <br />
 
