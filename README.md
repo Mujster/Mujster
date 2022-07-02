@@ -16,6 +16,7 @@
 [![twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/Mujtaba53135111)&nbsp;&nbsp;
 [![instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)]( https://www.instagram.com/mmujtaba.ahmad/)&nbsp;&nbsp;
 [![spotify](https://img.shields.io/badge/-Spotify-05122A?style=flat&logo=spotify)]( https://open.spotify.com/playlist/4gZXGFetbd5OjqbqpQVcKV?si=2181f09f4992457a)&nbsp;&nbsp;
+[![vsco](https://img.shields.io/badge/-Vsco-05122A?style=flat&logo=vsco)](https://vsco.co/mujtaba-ahmad/gallery)
 
 <br />
 
