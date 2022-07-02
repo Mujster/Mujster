@@ -1,4 +1,4 @@
-# </strong><img src="https://www.freepik.com/premium-vector/cool-pose-astronaut-with-skateboard-sword-illustration_24686806.htm" width="25px">
+# </strong><img src="https://www.freepik.com/premium-vector/cool-pose-astronaut-with-skateboard-sword-illustration_24686806.htm" width="150px">
 <br />
 
 ### Hi there, I'm Mujtaba - aka[Mujster]
