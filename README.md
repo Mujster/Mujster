@@ -31,7 +31,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mujster&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujster&theme=dark&layout=compact)](https://github.com/Mujster/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujster&theme=dark-blue&layout=compact)](https://github.com/Mujster/github-readme-stats)
 <br />
 
 [twitter]: https://twitter.com/Mujtaba53135111
