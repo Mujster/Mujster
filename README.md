@@ -1,4 +1,4 @@
-[<img align="center" width="150" src="https://cdn1.vectorstock.com/i/1000x1000/84/15/astronaut-dabbing-style-on-a-space-rocket-vector-35808415.jpg"/>]
+[<img align="center" width="150" src="https://www.pinterest.com/pin/3307399705429409/"/>]
 <br />
 
 ### Hi there, I'm Mujtaba - aka[Mujster]
@@ -8,7 +8,8 @@
 - As of now, I'm trying to find my way through my semester and hopefully completing it. 
 - I am a tech enthusiast and football athlete.I listen to lots of Music.
 - 💻 Most used line of code cout<<"Hello World\n"; 
-- My favourite fictional characters are <a href="https://marvelcinematicuniverse.fandom.com/wiki/Groot">Groot</a> <a href="https://marvelcinematicuniverse.fandom.com/wiki/Moon_Knight_(TV_series)">Moon Knight</a> and <a href="https://marvelcinematicuniverse.fandom.com/wiki/Black_Panther">Black Panther</a>
+- My favourite fictional characters are <a href="https://marvelcinematicuniverse.fandom.com/wiki/Groot">Groot</a> <a href="https://marvelcinematicuniverse.fandom.com/wiki/Moon_Knight_(TV_series)">,Moon Knight</a> and <a href="https://marvelcinematicuniverse.fandom.com/wiki/Black_Panther">Black Panther</a>
+- I am also a Star Wars fan
 
 ### Connect with me: 
 [![linkedin](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://linkedin.com/in/mmujtabaahmad15)&nbsp;&nbsp;
