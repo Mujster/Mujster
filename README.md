@@ -10,12 +10,11 @@
 - 💻 Most used line of code cout<<"Hello World\n"; 
 
 ### Connect with me: 
-[<img align="left" alt="Mujster | LinkedIn" width="22px" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" />][linkedin]
-[<img align="left" alt="Mujster | Twitter" width="22px" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)" />][twitter]
-[<img align="left" alt="Mujster | Instagram" width="22px" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)" />][instagram]
-[<img align="left" alt="Mujster | Mail" width="22px" src="https://img.shields.io/badge/-Mail-05122A?style=flat&logo=gmail)" />][gmail]
-[<img align="left" alt="Mujster | Spotify" width="22px" src="https://img.shields.io/badge/-Spotify-05122A?style=flat&logo=spotify)" />][spotify]
-[<img align="left" alt="Mujster | Medium" width="22px" src="https://img.shields.io/badge/-Medium-05122A?style=flat&logo=medium)" />][medium]
+[![linkedin](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)]&nbsp;&nbsp;
+[![medium](https://img.shields.io/badge/-Medium-05122A?style=flat&logo=medium)]&nbsp;&nbsp;
+[![mail](https://img.shields.io/badge/-ProtonMail-05122A?style=flat&logo=protonmail)]&nbsp;&nbsp;
+[![twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)]&nbsp;&nbsp;
+
 <br />
 
 ### Languages & Tools:
