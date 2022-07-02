@@ -33,9 +33,8 @@
 ## <strong>Profile Visits </strong>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Mujster.Mujster) 
 <br />
+## GitHub Statistics
 ![Mujtser's github stats](https://github-readme-stats.vercel.app/api?username=Mujster&hide=issues,contribs&count_private=true&layout=compact&theme=cobalt)
-<br />
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mujster&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujster&langs_count=10&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 <br />
