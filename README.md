@@ -10,10 +10,10 @@
 - 💻 Most used line of code cout<<"Hello World\n"; 
 
 ### Connect with me: 
-[![linkedin](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)]&nbsp;&nbsp;
-[![medium](https://img.shields.io/badge/-Medium-05122A?style=flat&logo=medium)]&nbsp;&nbsp;
-[![mail](https://img.shields.io/badge/-ProtonMail-05122A?style=flat&logo=protonmail)]&nbsp;&nbsp;
-[![twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)]&nbsp;&nbsp;
+![linkedin](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)&nbsp;&nbsp;
+![medium](https://img.shields.io/badge/-Medium-05122A?style=flat&logo=medium)&nbsp;&nbsp;
+![mail](https://img.shields.io/badge/-ProtonMail-05122A?style=flat&logo=protonmail)&nbsp;&nbsp;
+![twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)&nbsp;&nbsp;
 
 <br />
 
