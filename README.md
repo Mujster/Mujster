@@ -38,6 +38,7 @@
 ## GitHub Statistics
 ![Mujtser's github stats](https://github-readme-stats.vercel.app/api?username=Mujster&hide=issues,contribs&count_private=true&layout=compact&theme=cobalt)
 <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujster&langs_count=10&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
 [twitter]: https://twitter.com/Mujtaba53135111 
