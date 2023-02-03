@@ -31,6 +31,7 @@
 [<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/>]
 [<img align="left" width="26px" src="https://cdn4.vectorstock.com/i/1000x1000/40/18/outline-object-oriented-programming-icon-isolated-vector-28254018.jpg"/>]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>]
+[<img align="left" alt="Java" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"/>]
 [<img align="left" alt="GUI " width="26px" src="https://www.pngitem.com/pimgs/m/11-119853_transparent-gui-png-uikit-logo-png-png-download.png"/>]
 ## <strong>Profile Visits </strong>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Mujster.Mujster) 
