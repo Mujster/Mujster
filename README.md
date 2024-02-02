@@ -1,50 +1,74 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<br />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mujtaba+Ahmad!;" />
+</h1>
 
-### Hi there, I'm Mujtaba - aka[Mujster]
+<h3 align="center">I am a software Engineer</h3>
 
-## I'm a student, currently pursuing my bachelors in Software Engineering
-- I spent my most of time developing proficiency in programming and learning new technologies.
-- As of now, I'm trying to find my way through my semester and hopefully completing it. 
-- I am a tech enthusiast and football athlete.I listen to lots of Music.
-- 💻 Most used line of code cout<<"Hello World\n"; 
-- My favourite fictional characters are <a href="https://marvelcinematicuniverse.fandom.com/wiki/Groot">Groot</a> <a href="https://marvelcinematicuniverse.fandom.com/wiki/Moon_Knight_(TV_series)">,Moon Knight</a> and <a href="https://marvelcinematicuniverse.fandom.com/wiki/Black_Panther">Black Panther</a>
-- I am also a Star Wars fan
+<br/>
 
-### Connect with me: 
-[![linkedin](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://linkedin.com/in/mmujtabaahmad15)&nbsp;&nbsp;
-[![medium](https://img.shields.io/badge/-Medium-05122A?style=flat&logo=medium)](https://medium.com/@mmujtabach1234)&nbsp;&nbsp;
-[![mail](https://img.shields.io/badge/-Mail-05122A?style=flat&logo=mail)](https://mail.google.com/mail/?view=cm&fs=1&to=mmujtaba.ahmad@protonmail.com&su=Info-Query)&nbsp;&nbsp;
-[![twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/Mujtaba53135111)&nbsp;&nbsp;
-[![instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)]( https://www.instagram.com/mmujtaba.ahmad/)&nbsp;&nbsp;
-[![spotify](https://img.shields.io/badge/-Spotify-05122A?style=flat&logo=spotify)]( https://open.spotify.com/playlist/4gZXGFetbd5OjqbqpQVcKV?si=2181f09f4992457a)&nbsp;&nbsp;
-[![vsco](https://img.shields.io/badge/-Vsco-05122A?style=flat&logo=vsco)](https://vsco.co/mujtaba-ahmad/gallery)
+<div align="center">
+ 
+ 🌱 I’m currently learning **Docker,AWS & Django**
 
-<br />
+💬 Ask me about **MERN, Python, Algorithms or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-### Languages & Tools:
+⚡ Fact **Breaking Bad & Prison Break are the best out there**
 
-[<img align="left" width="26px" src="https://seeklogo.com/images/V/visual-studio-code-logo-43C3AC9C08-seeklogo.com.png" />]
-[<img align="left" width="26px" src="https://w7.pngwing.com/pngs/192/492/png-transparent-git-bash-hd-logo-thumbnail.png"/>]
-[<img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/>] 
-[<img align="left" width="26px" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png"/>]
-[<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/>]
-[<img align="left" width="26px" src="https://cdn4.vectorstock.com/i/1000x1000/40/18/outline-object-oriented-programming-icon-isolated-vector-28254018.jpg"/>]
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>]
-[<img align="left" alt="Java" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"/>]
-[<img align="left" alt="GUI " width="26px" src="https://www.pngitem.com/pimgs/m/11-119853_transparent-gui-png-uikit-logo-png-png-download.png"/>]
-## <strong>Profile Visits </strong>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Mujster.Mujster) 
-<br />
-## GitHub Statistics
-![Mujtser's github stats](https://github-readme-stats.vercel.app/api?username=Mujster&hide=issues,contribs&count_private=true&layout=compact&theme=cobalt)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujster&langs_count=10&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-<br />
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:mmujtaba.ahmad@yahoo.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/mmujtabaahmad15" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://portfolio-iota-six-18.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-[twitter]: https://twitter.com/Mujtaba53135111 
-[linkedin]: https://linkedin.com/in/mmujtabaahmad15
-[instagram]: https://www.instagram.com/mmujtaba.ahmad/
-[gmail]: https://mail.google.com/mail/?view=cm&fs=1&to=mmujtaba.ahmad@protonmail.com&su=Info-Query
-[spotify]: https://open.spotify.com/playlist/4gZXGFetbd5OjqbqpQVcKV?si=2181f09f4992457a
-[medium]:https://medium.com/@mmujtabach1234
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,java,nextjs,mysql,django" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>Learning New Things</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mujster/Mujster/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Mujster&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
