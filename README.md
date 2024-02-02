@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Docker,AWS & Django**
+ 🌱 I’m currently learning **Docker,AWS, Django & ML**
 
 💬 Ask me about **MERN, Python, Algorithms or anything [here](https://github.com/salesp07/salesp07/issues)**
 
@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,java,nextjs,mysql,django" /><br>
 </div>
 
