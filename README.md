@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Docker,AWS, Django & ML**
 
-💬 Ask me about **MERN, Python, Algorithms or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **MERN, Python, Algorithms or anything [here](https://github.com/Mujster/Mujster/issues)**
 
 ⚡ Fact **Breaking Bad & Prison Break are the best out there**
 
