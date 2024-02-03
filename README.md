@@ -28,6 +28,9 @@
   <a href="https://portfolio-iota-six-18.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+  <a href="https://stackoverflow.com/users/21145435/mujtaba-ahmad">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />
+  </a>
 </div>
 
  <hr/>
